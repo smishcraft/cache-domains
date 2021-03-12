@@ -50,3 +50,4 @@ st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
 *.deploy.static.akamaitechnologies.com
+*.steamcommunity.com
